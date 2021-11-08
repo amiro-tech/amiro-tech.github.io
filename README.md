@@ -9,7 +9,7 @@
 - Develop theoretical physics-based models for animal behaviour
 - Study cooperation, decision-making, and conflict resolution
 - Create computer simulations and analysis tools (MATLAB, Python)
-___
+_
 ### Math Lecturer & TA  
 ***SCE & Achva Academic College***  
 2019 – 2021  
