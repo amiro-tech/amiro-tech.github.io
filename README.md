@@ -1,3 +1,3 @@
 # Amir Haluts CV
 
-![my picture](my_picture.jpg)
+<img src="my_picture.jpg" alt="my_picture" width="200"/>
