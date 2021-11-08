@@ -4,4 +4,4 @@
 
 ## **EXPERIENCE**
 ### PhD student, Theoretical Biological Physics
-#### Weizmann Institute of Science
+***Weizmann Institute of Science***
