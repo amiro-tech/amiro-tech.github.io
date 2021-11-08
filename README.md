@@ -5,7 +5,7 @@
 ## **EXPERIENCE**
   
 ### PhD student, Theoretical Biological Physics    
-[***Weizmann Institute of Science***](https://www.weizmann.ac.il/pages/)  
+***[Weizmann Institute of Science](https://www.weizmann.ac.il/pages/)***  
 2019 - Ongoing  
 - Develop theoretical physics-based models for animal behaviour
 - Study cooperation, decision-making, and conflict resolution
